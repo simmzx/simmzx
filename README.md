@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-🔭 I'm [**Xiang Zhang** \(张翔\)](https://simmzx.github.io/), I am currently seeking a PhD position. If you have any suitable opportunities, please don't hesitate to contact me! 
-📫Email: zhangxiang@simm.ac.cn
+🔭 I'm [**Xiang Zhang** \(张翔\)](https://simmzx.github.io/), I am currently seeking a PhD position. If you have any suitable opportunities, please don't hesitate to contact me! 🤗[**C.V.**](https://simmzx.github.io/XiangZhang_CV_20250924.pdf) 📫**Email**: zhangxiang@simm.ac.cn
+
+😄 I obtained my master's degree at the Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Dr. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN).
+
+
+
 
 <!--
 **simmzx/simmzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
