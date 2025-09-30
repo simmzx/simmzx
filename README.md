@@ -4,10 +4,11 @@
 
 🤗[**C.V.**](https://simmzx.github.io/XiangZhang_CV_20250924.pdf) 📫**Email**: zhangxiang@simm.ac.cn
 
-😄 I obtained my master's degree at the Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN).
+😄 I obtained my master's degree at the Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN). My research interests are focused on **developing artificial intelligence methods for organic synthesis planning & lead compound discovery, and creating tool websites for them.**
 
-
-
+> 🌱 My Representative Works 
+* **SynFrag**: 
+* **BioCLIP**: 
 
 <!--
 **simmzx/simmzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
