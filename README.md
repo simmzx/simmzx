@@ -1,4 +1,4 @@
-## Hi there 👋,  I'm [**Xiang Zhang** \(**张翔**\)](https://simmzx.github.io/)
+## Hi there 👋,  I'm **Xiang Zhang** \(**张翔**\)
 
 🔭 I am currently **finding a PhD position**. If you have any suitable opportunities, please don't hesitate to contact me! 
 
