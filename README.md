@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🔭 I'm [**Xiang Zhang** \(张翔\)](https://simmzx.github.io/), I am currently seeking a PhD position. If you have any suitable opportunities, please don't hesitate to contact me! 📫[Email](mailto:zhangxiang@simm.ac.cn): zhangxiang@simm.ac.cn
+🔭 I'm [**Xiang Zhang** \(张翔\)](https://simmzx.github.io/), I am currently seeking a PhD position. If you have any suitable opportunities, please don't hesitate to contact me! 
+📫Email: zhangxiang@simm.ac.cn
 
 <!--
 **simmzx/simmzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
