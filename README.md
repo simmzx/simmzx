@@ -7,7 +7,7 @@
 😄 I obtained my master's degree at the Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN). My research interests are focused on **developing artificial intelligence methods for organic synthesis planning & lead compound discovery, and creating tool websites for them.**
 
 > 🌱 My Representative Works 
-* **SynFrag**: A chemist-like synthetic accessibility model, performed fragment assembly autogressive generation pre-training on a 9.18M dataset. <u>Preprint</u> [Github](https://github.com/simmzx/SynFrag)
+* **SynFrag**: A chemist-like synthetic accessibility online platform, performed fragment assembly autogressive generation pre-training on a 9.18M dataset. [SynFrag](https://synfrag.simm.ac.cn) <u>Preprint</u> [Github](https://github.com/simmzx/SynFrag) 
 * **BioCLIP**: A comprehensive model for predicting lead's multiple properties including ADMET, DTI, MoA, pre-trained in a progressive tri-modal bootstrapping contrastive learning framework. [Github](https://github.com/simmzx/BioCLIP)
 
 <!--
