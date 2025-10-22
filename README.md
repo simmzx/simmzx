@@ -8,7 +8,7 @@
 
 > 🌱 My Representative Works 
 * **SynFrag**: A chemist-like synthetic accessibility online platform, performed fragment assembly autogressive generation pretraining to learn fragment assemble pattern, improving accuracy and interpretability of SA prediction. [[Web](https://synfrag.simm.ac.cn)] | [[DOI](https://doi.org/10.26434/chemrxiv-2025-33251)] | [[Github](https://github.com/simmzx/SynFrag)]
-* **BioCLIP**: A comprehensive model for predicting lead's multiple properties including ADMET, DTI, MoA, pre-trained in a progressive tri-modal bootstrapping contrastive learning framework. [[Github](https://github.com/simmzx/BioCLIP)]
+* **BioCLIP**: A comprehensive model for predicting lead's multiple properties including ADMET, DTI, MoA, pre-trained in a progressive tri-modal bootstrapping contrastive learning framework. [[Github](https://github.com/simmzx/BioCLIP)] | [PDF](https://simmzx.github.io/SynFrag_ChemRxiv.pdf)
 * **AttFpPost**: A molecular property prediction method addressing the overconfidence in out-of-distribution samples. AttFpPost enhances accuracy and efficiency across diverse drug discovery scenarios by integrating normalizing flow. \[[_Patterns_](https://www.cell.com/patterns/fulltext/S2666-3899(24)00106-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389924001065%3Fshowall%3Dtrue)\] | [[Github](https://github.com/simmzx/AttFpPost)]
 
 <!--
