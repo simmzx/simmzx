@@ -2,7 +2,7 @@
 
 🔭 I am seeking a PhD position, and currently working as a RA in Hengqin Lab.
 
-📑 [C.V.](https://simmzx.github.io/XiangZhang_CV_20251022.pdf) 📫 **Email**: zhangxiang@simm.ac.cn
+📑 [C.V.](https://simmzx.github.io/XiangZhang_CV_20260316.pdf) 📫 **Email**: zhangxiang@simm.ac.cn
 
 😄 I obtained my master's degree at Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN). My research interests are focused on **developing artificial intelligence methods for organic synthesis planning & lead compound discovery, and creating tool websites for them.**
 
