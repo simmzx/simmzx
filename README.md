@@ -1,6 +1,6 @@
 ## Hi there 👋,  I'm **Xiang Zhang** \(**张翔**\)
 
-🔭 I am seeking a PhD position, and currently working as a RA in Hengqin Lab.
+🔭 I am seeking a PhD position, and currently working as a assistant engineer in Hengqin Lab.
 
 📑 [C.V.](https://simmzx.github.io/XiangZhang_CV_20260316.pdf) 📫 **Email**: zhangxiang@simm.ac.cn
 
