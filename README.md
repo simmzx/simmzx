@@ -1,5 +1,5 @@
-## Hi there 👋,  I'm **Xiang Zhang** \(**张翔**\)
-  <img align="right" src="https://komarev.com/ghpvc/?username=Shrichackran&label=Views&color=blue" />
+## Hi there 👋,  I'm **Xiang Zhang** \(**张翔**\)  <img align="right" src="https://komarev.com/ghpvc/?username=Shrichackran&label=Views&color=blue" />
+
 🔭 I am seeking a PhD position, and currently working as an assistant engineer in Hengqin Lab.
 
 📑 [C.V.](https://simmzx.github.io/XiangZhang_CV_20260316.pdf) 📫 **Email**: zhangxiang@simm.ac.cn
