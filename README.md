@@ -3,7 +3,7 @@
 
 📑 [C.V.](https://simmzx.github.io/XiangZhang_CV_20260316.pdf) 📫 **Email**: zhangxiang@simm.ac.cn
 
-😄 I'm doing a PhD in AIDD at Macao Polytechnic University, advised by [Prof. Xiaojun Yao](https://www.researchgate.net/profile/Xiaojun-Yao-3). I obtained my master's degree at Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN). My research interests are focused on **developing artificial intelligence methods for organic synthesis planning & lead compound discovery, and creating tool websites for them.**
+😄 I'm doing a PhD in AIDD at Macao Polytechnic University, advised by [Prof. Xiaojun Yao](https://www.researchgate.net/profile/Xiaojun-Yao-3). And I obtained my master's degree at Shanghai Institute of Materia Medica & NJUCM, advised by [Prof. Mingyue Zheng](https://scholar.google.com/citations?user=vzBQN8EAAAAJ&hl=zh-CN) and [Dr. Xutong Li](https://scholar.google.com/citations?user=UMWyDZAAAAAJ&hl=zh-CN). My research interests are focused on **developing artificial intelligence methods for organic synthesis planning & lead compound discovery, and creating tool websites for them.**
 
 > 🌱 My Representative Works 
 * **SynFrag**: A chemist-like synthetic accessibility online platform, performed fragment assembly autogressive generation pretraining to learn fragment assemble pattern, improving accuracy and interpretability of SA prediction. [[Web](https://synfrag.simm.ac.cn)] | [[DOI](https://doi.org/10.1021/acs.jcim.5c02450)] | [[Github](https://github.com/simmzx/SynFrag)] | [[PDF](https://simmzx.github.io/SynFrag_JCIM.pdf)]
